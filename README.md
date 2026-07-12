@@ -39,8 +39,6 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 ```text
 Electric-Vehicle-Charge-and-Range-Analysis/
 
-│── requirements.txt
-│
 ├── assets/
 │   ├── img/
 |
@@ -57,8 +55,7 @@ Electric-Vehicle-Charge-and-Range-Analysis/
 ├── database/
 │   ├── EV_DATA.sql
 │   └── datasets/
-│
-└── screenshots/
+
 ```
 
 ---
