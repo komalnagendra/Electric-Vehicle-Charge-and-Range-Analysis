@@ -11,13 +11,10 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 # 🚀 Features
 
 - ⚡ Interactive EV Dashboard
-- 🔋 Battery Capacity Analysis
-- 📍 Charging Station Distribution
 - 🚗 EV Model Comparison
 - 📈 Range & Charging Performance Analysis
 - 🎛️ Interactive Tableau Filters
-- 📖 Tableau Story for Data Insights
-- 🌐 Responsive Flask Web Application
+- 📖 Tableau Story for Data Insight
 - 🗄️ MySQL Database Integration
 - 📊 Business Intelligence Visualizations
 
@@ -27,14 +24,11 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 
 | Technology | Purpose |
 |------------|----------|
-| Python 3.x | Backend Development |
-| Flask | Web Framework |
-| HTML5 | Frontend |
-| CSS3 | Styling |
+| HTML | Frontend |
+| CSS | Styling |
 | JavaScript | Client-side Interactivity |
 | Tableau Desktop/Public | Data Visualization |
 | MySQL | Database Management |
-| SQL | Data Processing |
 | Git & GitHub | Version Control |
 | VS Code | Development Environment |
 
@@ -45,17 +39,16 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 ```text
 Electric-Vehicle-Charge-and-Range-Analysis/
 
-│── app.py
 │── requirements.txt
-│── README.md
 │
-├── static/
-│   ├── css/
-│   ├── js/
-│   ├── assets/
+├── assets/
+│   ├── img/
+|
+├── css/
+|
+├── jss/
 │
-├── templates/
-│   └── index.html
+├── index.html
 │
 ├── tableau/
 │   ├── Dashboard.twb
@@ -119,11 +112,7 @@ CREATE DATABASE EV_ANALYSIS;
 
 ## Step 5
 
-Run the Flask application.
-
-```bash
-python app.py
-```
+Run the html application.
 
 ---
 
@@ -210,10 +199,6 @@ Tableau Dashboard & Story
 
 ↓
 
-Flask Web Application
-
-↓
-
 Interactive User Interface
 
 ↓
@@ -223,32 +208,6 @@ Business Insights & Analysis
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- 🏠 Home Page
-- 📊 Dashboard
-- 📍 Charging Station Analysis
-- 🚗 EV Model Comparison
-- 🔋 Battery Performance Charts
-- 📖 Tableau Story
-- 👥 Team Page
-
----
-
-# ✅ Advantages
-
-- Interactive Business Intelligence Dashboard
-- User-friendly Interface
-- Dynamic Data Filtering
-- Better Understanding of EV Performance
-- Supports Data-driven Decision Making
-- Easy Comparison of Electric Vehicles
-- Visual Representation of Large Datasets
-- Integrated Database Management
-
----
 
 # 📌 Applications
 
@@ -263,32 +222,6 @@ Add screenshots of:
 
 ---
 
-# 🔮 Future Enhancements
-
-- Real-time EV Charging Station Data Integration
-- Machine Learning-based Range Prediction
-- Predictive Battery Health Analysis
-- Live Dashboard Monitoring
-- User Authentication & Authorization
-- Role-based Access Control
-- Advanced KPI Dashboards
-- Mobile-friendly Responsive Design
-- API Integration for Live Data
-
----
-
-# 🧪 Testing
-
-| Module | Status |
-|----------|--------|
-| Flask Application | ✅ Passed |
-| MySQL Database | ✅ Passed |
-| Tableau Dashboard | ✅ Passed |
-| Interactive Filters | ✅ Passed |
-| Data Visualization | ✅ Passed |
-| Dashboard Integration | ✅ Passed |
-
----
 
 # 🎯 Conclusion
 
@@ -322,16 +255,5 @@ The **Electric Vehicle Charge and Range Analysis** project successfully integrat
 
 ---
 
-# 📚 References
-
-- Tableau Documentation
-- Flask Documentation
-- MySQL Documentation
-- Python Documentation
-- HTML5 Documentation
-- CSS3 Documentation
-- JavaScript Documentation
-
----
 
 ## ⭐ If you found this project useful, consider giving it a star on GitHub!
