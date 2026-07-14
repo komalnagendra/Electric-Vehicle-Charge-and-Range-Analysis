@@ -8,6 +8,10 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 
 ---
 
+# Demo Video
+
+https://drive.google.com/file/d/17J82ds9Qx56YXYr2fH4Be0RVTzQBJfxo/view?usp=drive_link
+
 # 🛠️ Technology Stack
 
 | Technology | Purpose |
