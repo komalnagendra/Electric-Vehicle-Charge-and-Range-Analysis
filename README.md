@@ -8,18 +8,6 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 
 ---
 
-# 🚀 Features
-
-- ⚡ Interactive EV Dashboard
-- 🚗 EV Model Comparison
-- 📈 Range & Charging Performance Analysis
-- 🎛️ Interactive Tableau Filters
-- 📖 Tableau Story for Data Insight
-- 🗄️ MySQL Database Integration
-- 📊 Business Intelligence Visualizations
-
----
-
 # 🛠️ Technology Stack
 
 | Technology | Purpose |
@@ -123,60 +111,6 @@ http://127.0.0.1:5000
 
 ---
 
-# 📊 Dashboard Modules
-
-## 1. Charging Station Analysis
-
-Analyze EV charging stations across different regions based on charger type, power rating, and service availability.
-
-**Insights:**
-
-- Region-wise charging stations
-- Charger Type Distribution
-- Service Type Analysis
-
----
-
-## 2. EV Model Comparison
-
-Compare electric vehicles using various performance metrics.
-
-**Metrics:**
-
-- Battery Capacity
-- Charging Time
-- Driving Range
-- Top Speed
-- Efficiency
-- Price
-
----
-
-## 3. Battery Performance Analysis
-
-Visualizes battery capacity and charging efficiency for different EV models.
-
----
-
-## 4. Interactive Dashboard
-
-Users can dynamically filter dashboard data by:
-
-- Region
-- Charger Type
-- Service Type
-- Vehicle Brand
-- Body Style
-- Power Rating
-
----
-
-## 5. Tableau Story
-
-A step-by-step presentation highlighting important findings, trends, and insights derived from the EV dataset.
-
----
-
 # 🔄 Project Workflow
 
 ```text
@@ -202,20 +136,6 @@ Interactive User Interface
 
 Business Insights & Analysis
 ```
-
----
-
-
-# 📌 Applications
-
-- Electric Vehicle Market Analysis
-- Automobile Industry
-- EV Manufacturers
-- Charging Infrastructure Planning
-- Smart City Projects
-- Research & Development
-- Educational Purposes
-- Business Intelligence & Analytics
 
 ---
 
@@ -251,6 +171,3 @@ The **Electric Vehicle Charge and Range Analysis** project successfully integrat
 🔗 https://komalnagendra.github.io/Electric-Vehicle-Charge-and-Range-Analysis/
 
 ---
-
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
