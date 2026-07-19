@@ -34,17 +34,21 @@ https://1drv.ms/v/c/aee30c78a4ce9499/IQCjwTGG0OQrTplLXxHcwqo4AfztFkxrhPlBvg3aHyh
 # 📂 Project Structure
 
 ```text
-Electric-Vehicle-Charge-and-Range-Analysis/
+Project Development Phase/
 
 ├── assets/
 │   ├── img/
+|       └── evcar-bg
 |
 ├── css/
+|   └── styles.css
 |
 ├── js/
+|   └── scripts.js
 │
-├── index.html
-│
+├── templates
+│   └── index.html
+|
 ├── tableau/
 │   ├── Dashboard.twb
 │   └── Story.twb
