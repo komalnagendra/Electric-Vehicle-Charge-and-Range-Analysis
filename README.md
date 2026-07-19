@@ -10,7 +10,10 @@ The project integrates an interactive Tableau dashboard with a responsive Flask-
 
 # 🎬 Demo Video
 
-https://drive.google.com/file/d/17J82ds9Qx56YXYr2fH4Be0RVTzQBJfxo/view?usp=drive_link
+Due to large file size, project demo video is uploaded as OneDrive link.
+
+Click on below link for project demonstration 👇
+https://1drv.ms/v/c/aee30c78a4ce9499/IQCjwTGG0OQrTplLXxHcwqo4AfztFkxrhPlBvg3aHyhmNtc?e=ya2jAY
 
 ---
 
